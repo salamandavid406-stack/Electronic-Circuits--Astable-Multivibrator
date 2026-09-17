@@ -1,6 +1,6 @@
 # Electronic-Circuits--Astable-Multivibrator
 
-## AIM:
+## AIM: 
 To implement and simulate a Astable Multivibrator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
